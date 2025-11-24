@@ -153,9 +153,9 @@
 ---
 
 ## Checklist final
-- [ ] Todas las **vistas cubiertas** (o alternativa con documentación oficial).
-- [ ] **Developer Mode** usado y **tipo de vista verificado** en cada sección.
-- [ ] **Capturas nítidas**, rutas relativas correctas y `alt/title` informativos.
-- [ ] Se indica **cómo llegar** a cada vista desde el menú.
-- [ ] **Bibliografía** con fuentes oficiales / artículos técnicos.
-- [ ] **PDF único** consolidado generado a partir del Markdown.
+- [x] Todas las **vistas cubiertas** (o alternativa con documentación oficial).
+- [x] **Developer Mode** usado y **tipo de vista verificado** en cada sección.
+- [x] **Capturas nítidas**, rutas relativas correctas y `alt/title` informativos.
+- [x] Se indica **cómo llegar** a cada vista desde el menú.
+- [x] **Bibliografía** con fuentes oficiales / artículos técnicos.
+- [x] **PDF único** consolidado generado a partir del Markdown.
