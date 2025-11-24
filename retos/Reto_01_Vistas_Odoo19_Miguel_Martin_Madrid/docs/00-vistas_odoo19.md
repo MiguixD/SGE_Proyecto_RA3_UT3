@@ -1,5 +1,5 @@
-# Vistas en Odoo 19 — {Nombre Apellidos}
-**Reto:** Reto_01_Vistas_Odoo19_{Nombre}_{Apellidos}  
+# Vistas en Odoo 19 — Miguel Martín Madrid
+**Reto:** Reto_01_Vistas_Odoo19_Miguel_Martin_Madrid  
 **Proyecto:** Proyecto_RA3_UT3  
 **Fecha:** 2025-11-21
 
