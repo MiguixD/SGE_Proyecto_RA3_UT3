@@ -11,7 +11,7 @@
 ```
 Proyecto_RA3_UT3/
 └─ retos/
-   ├─ Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/
+   ├─ Reto_01_Vistas_Odoo19_Miguel_Martin_Madrid/
    ├─ Reto_02_<por_definir>_NombreAlumno_ApellidosAlumno/
    └─ Reto_03_<por_definir>_NombreAlumno_ApellidosAlumno/
 ```
